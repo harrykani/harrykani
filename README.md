@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
 
-🎓 Eu estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
+🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
 
 👩‍💻 Atualmente eu sou somente estudante
 
