@@ -2,25 +2,25 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Back-End | Fullstack]
+💻 Eu sou um desenvolvedor [Back-End | Fullstack], [QA Tester]
 
-🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
+🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
 
-👩‍💻 Atualmente eu sou somente estudante
+👩‍💻 Atualmente eu sou somente estudante e faço freelance em Wordpress
 
-👯 Busco oportunidade de emprego na área de tecnologia, preferencialmente como **Desenvolvedor Back-End**
+👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou preferencialmente como **QA**
 
-🔎 Também sou curioso sobre:  **Desenvolvimento Mobile** e **QA**
+🔎 Também sou curioso sobre:  **Desenvolvimento Mobile**
 
-✒️ Eu gosto de no meu tempo livre:  **Ler, brincar com meu gato, jogar futebol e ficar com as pessoas que gosto**
+✒️ Eu gosto de no meu tempo livre:  **Ler, brincar com meu gato, jogar futebol e escutar rock**
 
-📚 Lendo:  **Nine Star Hegemon Body Art, One Piece, One Punch Man**
+📚 Lendo:  **Novels chinesas, One Piece, One Punch Man**
 
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
 
-
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,17 +30,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### Eu estou estudando... 🧩
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 )
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
