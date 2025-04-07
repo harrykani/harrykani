@@ -2,13 +2,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Back-End | Fullstack], [QA Tester]
+💻 Eu sou um desenvolvedor [Back-End | Fullstack]
 
 🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
 
 👩‍💻 Atualmente eu sou somente estudante e busco um estágio
 
-👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou **QA**
+👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou Full Stack
 
 🔎 Também sou curioso sobre:  **Desenvolvimento Mobile e Machine Learning**
 
