@@ -6,11 +6,11 @@
 
 🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
 
-👩‍💻 Atualmente eu sou somente estudante e faço freelance em Wordpress
+👩‍💻 Atualmente eu sou somente estudante e busco um estágio
 
-👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou preferencialmente como **QA**
+👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou **QA**
 
-🔎 Também sou curioso sobre:  **Desenvolvimento Mobile**
+🔎 Também sou curioso sobre:  **Desenvolvimento Mobile e Machine Learning**
 
 ✒️ Eu gosto de no meu tempo livre:  **Ler, brincar com meu gato, jogar futebol e escutar rock**
 
@@ -40,10 +40,7 @@
 ### Eu estou estudando... 🧩
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-Zephyr
+
 
 ### Cursos realizados 🤓
 
