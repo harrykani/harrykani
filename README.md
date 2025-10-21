@@ -4,11 +4,11 @@
 
 💻 Eu sou um desenvolvedor [Back-End | Fullstack]
 
-🎓 Eu estudo [[ Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Sistemas de Informação ] [ [Cubos Academy](https://cubos.academy/) | Faculdade Anhanguera ]
+🎓 Eu estudo [ Sistemas de Informação ] em [ Faculdade Anhanguera ]
 
-👩‍💻 Atualmente eu sou somente estudante e busco um estágio
+👩‍💻 Atualmente sou Estagiário em [ Sinergy-ia ](https://www.linkedin.com/company/sinergy-inteligência-artificial/posts/?feedView=all)
 
-👯 Busco oportunidade de emprego na área de tecnologia como **Desenvolvedor Back-End** ou Full Stack
+👯 Interessado em oportunidades como **Desenvolvedor Back-End Jr** ou **Desenvolvedor Full Stack Jr**
 
 🔎 Também sou curioso sobre:  **Desenvolvimento Mobile e Machine Learning**
 
@@ -39,19 +39,22 @@
 
 ### Eu estou estudando... 🧩
 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
 
 
 ### Cursos realizados 🤓
 
-![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
+![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-D818A5?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
 
 
-### GitHub Stats ⚡
+### Harrykani's GitHub Stats ⚡
 <div>
 <a href="https://github.com/harrykani">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrykani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact&langs_count=7&theme=panda"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrykani&theme=panda&show_icons=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
