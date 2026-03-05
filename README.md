@@ -63,11 +63,12 @@ Atualmente trabalho com:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrykani&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact&theme=tokyonight)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harrykani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harrykani&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
