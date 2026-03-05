@@ -51,11 +51,9 @@
 
 
 ### Harrykani's GitHub Stats ⚡
-<div>
-<a href="https://github.com/harrykani">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact&langs_count=7&theme=panda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrykani&theme=panda&show_icons=true"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrykani&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykani&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harrykani)
 
 ### Entre em contato comigo! 📭
 <div>
